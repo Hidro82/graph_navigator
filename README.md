@@ -267,5 +267,3 @@ You need to find the shortest path that goes through all vertices of the graph a
 `-` "Still, I don't see how your job has anything to do with a robot vacuum cleaner," Eve complained. "Where's Charlie? He used to drop by at least a couple of times a week."
 
 `-` "Charlie... is working. We've got a little problem, and your pathfinding work is exactly what will help us. Don't worry, when it's all over, our evening gatherings will be back. Then we'll discuss everything," calming, but sadly assured Alice. "Thanks for your time, I have to go. See you later!"
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64181dc7c769f102064293e1/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
